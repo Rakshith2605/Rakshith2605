@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakshith2605
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently persueing my Masters in Data Analytics Engineering from Northeastern University , Boston
+- 🌱 I’m currently pursuing my Masters in Data Analytics Engineering from Northeastern University, Boston
 - 📫 How to reach me rakshith.d26@outlook.com
 
 <!---
