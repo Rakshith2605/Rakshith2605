@@ -23,7 +23,7 @@
 
 ```yaml
 name: Rakshith Dharmappa
-located_in: Boston, MA
+located_in: Frisco, TX
 current_role: AI/ML Engineer @ Reliance Jio Infocom
 education: MS Data Science @ Northeastern University
 
